@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\dev\github\cameronoca\LinqExercises\LinqExercises\LinqExercises\Infrastructure\NorthwindDataContext.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\dev\linq-exercises\LinqExercises\Infrastructure\NorthwindDataContext.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
